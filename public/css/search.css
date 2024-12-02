@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    background: linear-gradient(rgb(136, 82, 57), rgb(39, 41, 46));
+    height: 900px;
+    margin: auto;
+}
+
+.container {
+    margin: 2rem auto;
+    width: 75%;
+    color: #f0f0f0;
+}
+
+.form-container {
+    width: 75%;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.form {
+    width: 75%;
+    margin: 0 auto;
+
+}
+
+.result-container {
+    text-align: center;
+}
+
+.movie-data-list {
+    list-style: none;
+    line-height: 2rem;
+}
+
+span {
+    font-weight: bold;
+    color: #f0f0f0;
+}
+
+img {
+    width: 250px;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 10rem;
+    text-align: center;
+    color: #f0f0f0;
+}
