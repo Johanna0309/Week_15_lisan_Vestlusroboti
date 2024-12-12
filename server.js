@@ -1,4 +1,3 @@
-const { default: axios } = require('axios');
 const express = require('express');
 const axios = require('axios');
 const http = require('http');
