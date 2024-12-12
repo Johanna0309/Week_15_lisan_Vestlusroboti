@@ -17,7 +17,7 @@
   "homepage": "https://github.com/Johanna0309/Week_12-Projekti_uuendamine-#readme",
   "description": "",
   "dependencies": {
-    "axios": "^1.7.8",
+    "axios": "^1.7.9",
     "ejs": "^3.1.10",
     "express": "^4.21.1"
   }
